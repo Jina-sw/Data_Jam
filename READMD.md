@@ -1,3 +1,4 @@
 python -m venv .venv
-source .venv/bin/activate
+Mac: source .venv/bin/activate
+Windows: .venv\Scripts\activate
 pip install tensorflow pandas numpy scikit-learn
