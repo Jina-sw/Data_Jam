@@ -8,7 +8,7 @@
 
 
 # Tech Stacks
-NumPy, Pandas
+NumPy, Pandas, Jupiter Notebook
 ## Goals
 - We predict which player out of 9 would win in the next game, using supervised machine learning algorithms.
 - Find the most proper AI model for the given data sets.
