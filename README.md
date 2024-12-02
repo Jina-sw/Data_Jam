@@ -23,6 +23,6 @@ NumPy, Pandas, Jupiter Notebook
 - I realized choosing an AI model is important and each model is better in a certain data set for higher accuracy
 - I picked the "Linear Regression" model which is known for predicting a continuous outcome (e.g., predicting house prices, stock prices, or temperature)
 - Worked well.
-- Tested other models to see the actual results of the prediction.
+- Tested other models to compare the actual results of the prediction to each other.
 - Also the number showed that the "Linear Regression" model worked the best.
 - I won the second place out of 10 participants!  
